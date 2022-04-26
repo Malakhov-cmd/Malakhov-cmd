@@ -24,8 +24,6 @@ Data on commits per day:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malakhov-cmd&theme=solarized_dark)
 
-For more information, you can study my CV in the language of your choice.
+To contact me just write here:
 
-Ru: [My CV on Russian](https://drive.google.com/file/d/1olF_HBFTKBUotn15Jf26M6HeJVdH3bJZ/view?usp=sharing).
-
-En: [My CV on English](https://drive.google.com/file/d/1IPyJYjObpB_NKi-xsON2zA03E8mK33Qy/view?usp=sharing).
+_mgs-2000@yandex.ru_
